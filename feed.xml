@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>2</title>
+    <link href="https://taichi0514.github.io/Publii-GitHubPage/feed.xml" rel="self" />
+    <link href="https://taichi0514.github.io/Publii-GitHubPage" />
+    <updated>2025-03-01T20:39:37+09:00</updated>
+    <author>
+        <name>2</name>
+    </author>
+    <id>https://taichi0514.github.io/Publii-GitHubPage</id>
+
+    <entry>
+        <title>wip</title>
+        <author>
+            <name>2</name>
+        </author>
+        <link href="https://taichi0514.github.io/Publii-GitHubPage/wip.html"/>
+        <id>https://taichi0514.github.io/Publii-GitHubPage/wip.html</id>
+
+        <updated>2025-03-01T20:39:37+09:00</updated>
+            <summary>
+                <![CDATA[
+                    Publii-GitHubPage
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Publii-GitHubPage</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/sukurinsiyotuto-2025-03-01-19.48.39.png" alt="" width="122" height="98" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-xs.png 640w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-sm.png 768w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-md.png 1024w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-lg.png 1366w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-xl.png 1600w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>block</title>
+        <author>
+            <name>2</name>
+        </author>
+        <link href="https://taichi0514.github.io/Publii-GitHubPage/block.html"/>
+        <id>https://taichi0514.github.io/Publii-GitHubPage/block.html</id>
+
+        <updated>2025-02-27T23:37:20+09:00</updated>
+            <summary>
+                <![CDATA[
+                    w
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/ponque_icon_kaku.jpg" height="400" width="400" alt="w"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-xs.jpg 640w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-sm.jpg 768w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-md.jpg 1024w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-lg.jpg 1366w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-xl.jpg 1600w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-2xl.jpg 1920w">
+      <figcaption>w</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

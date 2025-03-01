@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "2",
+    "description": "",
+    "home_page_url": "https://taichi0514.github.io/Publii-GitHubPage",
+    "feed_url": "https://taichi0514.github.io/Publii-GitHubPage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "2"
+    },
+    "items": [
+        {
+            "id": "https://taichi0514.github.io/Publii-GitHubPage/wip.html",
+            "url": "https://taichi0514.github.io/Publii-GitHubPage/wip.html",
+            "title": "wip",
+            "summary": "Publii-GitHubPage",
+            "content_html": "<p><strong>Publii-GitHubPage</strong></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/sukurinsiyotuto-2025-03-01-19.48.39.png\" alt=\"\" width=\"122\" height=\"98\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-xs.png 640w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-sm.png 768w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-md.png 1024w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-lg.png 1366w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-xl.png 1600w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/2/responsive/sukurinsiyotuto-2025-03-01-19.48.39-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "2"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-01T20:39:37+09:00",
+            "date_modified": "2025-03-01T20:39:37+09:00"
+        },
+        {
+            "id": "https://taichi0514.github.io/Publii-GitHubPage/block.html",
+            "url": "https://taichi0514.github.io/Publii-GitHubPage/block.html",
+            "title": "block",
+            "summary": "w",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/ponque_icon_kaku.jpg\" height=\"400\" width=\"400\" alt=\"w\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-xs.jpg 640w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-sm.jpg 768w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-md.jpg 1024w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-lg.jpg 1366w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-xl.jpg 1600w ,https://taichi0514.github.io/Publii-GitHubPage/media/posts/1/responsive/ponque_icon_kaku-2xl.jpg 1920w\">\n      <figcaption>w</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "2"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-27T23:37:20+09:00",
+            "date_modified": "2025-02-27T23:37:20+09:00"
+        }
+    ]
+}

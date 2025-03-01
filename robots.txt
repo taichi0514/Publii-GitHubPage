@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://taichi0514.github.io/Publii-GitHubPage/sitemap.xml
